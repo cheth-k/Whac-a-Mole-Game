@@ -66,15 +66,4 @@ whac-a-mole/
 - Requires CSS Grid support
 - JavaScript ES6+ features used
 
-## Future Improvements
 
-- Add difficulty levels
-- Implement high score system
-- Add start screen
-- Include countdown timer
-- Add mobile touch support
-- Implement responsive design for different screen sizes
-
-## License
-
-[Add your license information here]
